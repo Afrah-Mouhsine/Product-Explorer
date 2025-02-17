@@ -8,7 +8,7 @@ A powerful and user-friendly product search application that allows users to fil
 - Users can search for products using **title, ID, or description**.
 - The search bar dynamically filters results based on the input.
 
-![Search Example](src/assets/images/search-example.png)
+![Search Example](public/search-example.png)
 
 ### 2. Category Filtering
 - Users can filter products by **categories** such as:
@@ -18,7 +18,7 @@ A powerful and user-friendly product search application that allows users to fil
   - Women's Clothing
 - Clicking on a category button updates the product list accordingly.
 
-![Category Filter](src/assets/images/category-filter.png)
+![Category Filter](public/category-filter.png)
 
 ### 3. Product Listings
 - Displays products in a structured **table format**.
