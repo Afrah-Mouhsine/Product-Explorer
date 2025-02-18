@@ -1,4 +1,4 @@
-# Product Search Web App
+# Product Search React App
 
 A powerful and user-friendly product search application that allows users to filter products by categories, search by keywords, and view essential product details like price, description, and ratings.
 
